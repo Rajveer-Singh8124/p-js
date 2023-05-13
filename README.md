@@ -5,7 +5,7 @@ pjs is a helper class for reading and writing JSON data to files in JavaScript/N
 ## Installation
 
 ```bash
-npm i p-js-rsr
+npm i p-js-rs
 
 
 import {pjs} from 'p-js';
